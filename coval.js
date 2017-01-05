@@ -9,7 +9,7 @@ Testnets.coval = {
   },
   pubKeyHash: 0x3d,
   scriptHash: 0x80,
-  wif: 241,
+  wif: 189,
   dustThreshold: 100000000,
 };
 
