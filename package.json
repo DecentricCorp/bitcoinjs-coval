@@ -1,19 +1,19 @@
 {
-  "name" : "bitcoinjs-testnets",
-  "description" : "Additional network testnet parameters for bitcoinjs-lib",
-  "keywords" : [ "bitcoinjs", "testnet", "litecoin", "dogecoin", "network" ],
+  "name" : "bitcoinjs-coval",
+  "description" : "Additional network parameters for bitcoinjs-lib",
+  "keywords" : [ "bitcoinjs", "coval", "network" ],
   "version" : "1.0.10",
   "preferGlobal" : false,
-  "homepage" : "https://github.com/patricklodder/bitcoinjs-testnets",
-  "author" : "Patrick Lodder <patrick.lodder@gmail.com> (https://github.com/patricklodder)",
+  "homepage" : "https://github.com/DecentricCorp/bitcoinjs-coval",
+  "author" : "DecentricCorp <shannon@cov.al> (https://github.com/DecentricCorp)",
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/patricklodder/bitcoinjs-testnets"
+    "url" : "git://github.com/DecentricCorp/bitcoinjs-coval"
   },
   "bugs" : {
-    "url" : "https://github.com/patricklodder/bitcoinjs-testnets/issues"
+    "url" : "https://github.com/DecentricCorp/bitcoinjs-coval/issues"
   },
-  "main" : "./testnets.js",
+  "main" : "./coval.js",
   "devDependencies": {
     "vows": "0.8.x"
   },
